@@ -22,18 +22,19 @@ Clean Code skills for Swift / iOS projects based on Robert Martin's *Clean Code*
 
 ## Installation
 
-Install any skill with `npx`:
+Install the whole bundle with one `npx` command:
 
 ```bash
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-names
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-functions
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-types
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-errors
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-tests
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-review
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-cognitive-complexity
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-advisor
+npx skills add levabond/iOS-clean-code-skills --all
 ```
+
+Or install only the skills you want:
+
+```bash
+npx skills add levabond/iOS-clean-code-skills --skill swift-clean-names --skill swift-clean-review
+```
+
+The CLI will ask which agents to register the skill with (Claude Code, Codex, Cursor, Gemini, ...) and whether to install per-project or globally.
 
 If `npx` is missing, install Node (`brew install node`); if `brew` is missing too, [install Homebrew](https://brew.sh) first.
 

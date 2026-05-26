@@ -4,13 +4,17 @@ Claude Code skills for iOS/Swift development based on **Clean Code** by Robert M
 
 ## Installation
 
-Install any skill with `npx`:
+Install the whole bundle with one `npx` command:
 
 ```bash
-npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-names
+npx skills add levabond/iOS-clean-code-skills --all
 ```
 
-Repeat for any other skill in the list below. See `README.md` for the full set of commands.
+Or install only the skills you want (see list below):
+
+```bash
+npx skills add levabond/iOS-clean-code-skills --skill swift-clean-names
+```
 
 ## Skills Reference
 

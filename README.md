@@ -38,6 +38,16 @@ The CLI will ask which agents to register the skill with (Claude Code, Codex, Cu
 
 If `npx` is missing, install Node (`brew install node`); if `brew` is missing too, [install Homebrew](https://brew.sh) first.
 
+### Alternative install methods
+
+**Claude Code** (installs the whole bundle directly):
+
+```bash
+/plugin install levabond/iOS-clean-code-skills
+```
+
+Or clone this repository and drop the skill folders wherever your agent expects them.
+
 ## Usage
 
 ```bash

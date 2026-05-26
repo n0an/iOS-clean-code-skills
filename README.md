@@ -25,33 +25,17 @@ Clean Code skills for Swift / iOS projects based on Robert Martin's *Clean Code*
 Install any skill with `npx`:
 
 ```bash
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-clean-names
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-clean-functions
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-clean-types
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-clean-errors
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-clean-tests
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-clean-review
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-cognitive-complexity
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-clean-advisor
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-names
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-functions
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-types
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-errors
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-tests
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-review
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-cognitive-complexity
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-advisor
 ```
 
 If `npx` is missing, install Node (`brew install node`); if `brew` is missing too, [install Homebrew](https://brew.sh) first.
-
-### Alternative install methods
-
-**Claude Code** (installs the whole bundle):
-
-```bash
-/plugin install n0an/iOS-clean-code-skills
-```
-
-**Gemini** (installs the whole bundle):
-
-```bash
-gemini extensions install https://github.com/n0an/iOS-clean-code-skills.git --consent
-```
-
-Or clone this repository and drop the skill folders wherever your agent expects them.
 
 ## Usage
 

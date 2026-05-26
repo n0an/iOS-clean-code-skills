@@ -7,10 +7,10 @@ Claude Code skills for iOS/Swift development based on **Clean Code** by Robert M
 Install any skill with `npx`:
 
 ```bash
-npx skills add https://github.com/n0an/iOS-clean-code-skills --skill swift-clean-names
+npx skills add https://github.com/levabond/iOS-clean-code-skills --skill swift-clean-names
 ```
 
-Repeat for any other skill in the list below. See `README.md` for the full set of commands and alternative install paths (Claude Code `/plugin install`, Gemini extensions).
+Repeat for any other skill in the list below. See `README.md` for the full set of commands.
 
 ## Skills Reference
 

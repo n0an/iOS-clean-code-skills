@@ -2,8 +2,6 @@
 
 Claude Code skills for iOS/Swift development based on **Clean Code** by Robert Martin.
 
-Created by [Lev Bondarenko](https://github.com/levabond). Repackaged for `npx skills` / Agent Skills installation in this repository.
-
 ## Installation
 
 Install any skill with `npx`:

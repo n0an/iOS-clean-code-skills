@@ -2,8 +2,6 @@
 
 Clean Code skills for Swift / iOS projects based on Robert Martin's *Clean Code* and G. Ann Campbell's *Cognitive Complexity*.
 
-Created by [Lev Bondarenko](https://github.com/levabond). This repository repackages the skills into the [Agent Skills](https://agentskills.io/home) format so they install with a single `npx` command in Claude Code, Codex, Cursor, Gemini, and more.
-
 ## Skills
 
 ### Slash commands
